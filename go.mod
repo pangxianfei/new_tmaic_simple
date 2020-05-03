@@ -1,4 +1,4 @@
-module github.com/mlogclub/simple
+module github.com/pangxianfei/new_tmaic_simple
 
 go 1.13
 
